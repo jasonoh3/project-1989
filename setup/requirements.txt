@@ -1,0 +1,6 @@
+Flask
+Pillow
+numpy
+requests
+python-dotenv
+scikit-learn
