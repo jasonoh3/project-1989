@@ -1,5 +1,7 @@
 # Mosaic Microservice API
 
+Project 1989 is a GRAND project in CS 340, where each student creates 13 independent mosaics. By the end of the semester, if all goes to plan, the middleware will call every single mosaic generator and create 1989 mosaics. Then, using a map-reduce architecture, we would reduce each mosaic into one beautiful mosaic.
+
 ## Project Tree Directory
 
 ```
